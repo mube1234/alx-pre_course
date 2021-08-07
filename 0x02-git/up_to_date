@@ -1,0 +1,20 @@
+#git commands
+* git init 
+* git add .
+* git commit
+* git remote add origin url
+* git push -u origin main
+
+#to create file
+	* touch filename
+
+#to write file on the created file
+	* echo "text here" > filename  
+
+#to create branch
+	* git branch <branch-name>
+
+#to  switch to the new branch
+	* git checkout <branch-name>
+#to pull from github
+	* git pull
